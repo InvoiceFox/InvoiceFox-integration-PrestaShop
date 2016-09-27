@@ -2,7 +2,7 @@
 
 ###Kaj omogoča
 
-Povezava vašega OpenCart sistema s Cebelca.biz omogoča:
+Povezava vašega Prestastop sistema s Cebelca.biz omogoča:
  - administracijski vmesnik v Prestashop
  - prenos računov in strank
  - tiskanje CebelcaUPN računov kar preko Prestashop sistema
